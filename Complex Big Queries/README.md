@@ -1,7 +1,7 @@
 
 # Data to Insights
 
-[Querying 10 Billion Wikipedia Records](wikipedia-10-billion.sql)
+[Querying 10 Billion Wikipedia Records](wikipedia-10-billion.sql)\n
 [Exploring Data with SQL](explore-data-with-sql.sql)
 [Visualizing Results in Data Studio](data-studio.md)
 [Scheduling Queries for Automatic Table Refreshes](scheduled-query.sql)
